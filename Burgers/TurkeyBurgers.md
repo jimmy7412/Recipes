@@ -2,11 +2,11 @@
 
 ## Description
 
-A great turkey burger made with the $\frac{5}{3}$ pound packages of ground turkey from Costco.
+A great turkey burger made with the 5/3 pound packages of ground turkey from Costco.
 
 ## Ingredients
 
-- $\frac{5}{3}$ pound ground turkey
+- 5/3 pound ground turkey
 - Handful of Oats
 - 1 Egg
 - Half a handful of shredded 4 cheese mexican cheese mix
